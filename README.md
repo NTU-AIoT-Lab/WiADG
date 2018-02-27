@@ -17,5 +17,6 @@ WiFi-based gesture recognition using Adversarial Discriminative Domain Adaptatio
 | A ---> B: 49.7% | B ---> A: 32.7% |
 
 After domain adaptation
-A dataset: A target encoder + B source classifier --> 70.1%
-B dataset: B target encoder + A source classifier --> 52.3%
+
+* A dataset: A target encoder + B source classifier --> 70.1%
+* B dataset: B target encoder + A source classifier --> 52.3%
