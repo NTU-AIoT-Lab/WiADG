@@ -14,6 +14,7 @@ WiFi-based gesture recognition using Adversarial Discriminative Domain Adaptatio
 
 ### Performance
 | Source A: 96.7% | Source B: 93.0% |
+
 | A ---> B: 49.7% | B ---> A: 32.7% |
 
 After domain adaptation
