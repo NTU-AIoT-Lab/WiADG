@@ -16,6 +16,7 @@ In this paper, we propose a WiFi-enabled device-free adaptive gesture recognitio
 
 ### Performance
 | Method | Conf room --> Office | Office --> Conf room |
+|  ----  | ----  | ----  |
 | Source-only | 49.7% | 32.7% |
 | Target-only | 96.7% | 93.0% |
 | WiADG (Ours) | 83.3% | 66.6% |
