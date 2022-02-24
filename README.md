@@ -12,7 +12,7 @@ In this paper, we propose a WiFi-enabled device-free adaptive gesture recognitio
 - ***train_src.py*** : train the source encoder and classifier
 - ***test_src.py*** : test the source on the target dataset
 - ***train_adapt.py*** : train the target encoder
-- ***test_tgt*** : test the target encoder with source classifier on the target dataset
+- ***test_tgt.py*** : test the target encoder with source classifier on the target dataset
 
 ### Performance
 | Method | Conf room --> Office | Office --> Conf room |
