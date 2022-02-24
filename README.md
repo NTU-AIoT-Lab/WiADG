@@ -4,9 +4,8 @@
 In this paper, we propose a WiFi-enabled device-free adaptive gesture recognition scheme, WiADG, that is able to identify human gestures accurately and consistently under environmental dynamics via adversarial domain adaptation. ([link](https://ieeexplore.ieee.org/abstract/document/8487345))
 
 ### Requirements
-- cuda
-- python3
-- pytorch
+- Python3
+- Pytorch (1.1.0 Recommended)
 
 ### Guidance
 - Train the source encoder and classifier
