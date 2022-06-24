@@ -1,5 +1,7 @@
 # Robust Wifi-enabled Device-free Gesture recognition via Unsupervised Adversarial Domain Adaptation
 
+![GitHub](https://img.shields.io/github/license/Marsrocky/WiADG)
+
 ### Introduction
 In this paper, we propose a WiFi-enabled device-free adaptive gesture recognition scheme, WiADG, that is able to identify human gestures accurately and consistently under environmental dynamics via adversarial domain adaptation. ([link](https://ieeexplore.ieee.org/abstract/document/8487345))
 
